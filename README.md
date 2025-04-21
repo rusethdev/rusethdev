@@ -1,6 +1,6 @@
 # About Me
 
-I'm a passionate and detail-oriented software developer with a strong focus on full-stack web development, automation, and game scripting. I strive to deliver efficient, scalable, and maintainable code, and I enjoy building systems that improve user experience and performance.
+I'm a passionate and detail-oriented software developer with a strong focus on full-stack web development, and automation. I strive to deliver efficient, scalable, and maintainable code, and I enjoy building systems that improve user experience and performance.
 
 ## 🛠️ Tech Stack
 
