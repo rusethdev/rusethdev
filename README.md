@@ -13,22 +13,21 @@ I'm a passionate and detail-oriented software developer with a strong focus on f
   ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=white)
 
 - **Backend & Scripting:**  
-  🟨 Lua  
-  🟦 SQL  
-  🟧 JavaScript (Node.js)
+  ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 - **Game Development:**  
   🔧 FiveM scripting (QBCore / ESX)
 
 - **Tools:**  
-  🛠️ Git & GitHub  
-  🖥️ Visual Studio Code  
-  🎨 Figma
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📂 Projects
 
 **Coming Soon**  
-
 
 ## 📚 Currently Exploring
 
@@ -39,5 +38,5 @@ I'm a passionate and detail-oriented software developer with a strong focus on f
 ## 📬 Contact
 
 - GitHub: [@rusethdev](https://github.com/rusethdev)  
-- Discord: rusethdev#0000  
+- Discord: [discord.gg/printstore](https://discord.gg/printstore)  
 - Email: rusethcontact@gmail.com
