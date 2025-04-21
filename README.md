@@ -18,7 +18,7 @@ I'm a passionate and detail-oriented software developer with a strong focus on f
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 - **Game Development:**  
-  🔧 FiveM scripting (QBCore / ESX)
+  ![FiveM](https://img.shields.io/badge/-FiveM-8B8B8B?style=flat&logo=fivem&logoColor=white) (QBCore / ESX)
 
 - **Tools:**  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
@@ -39,4 +39,4 @@ I'm a passionate and detail-oriented software developer with a strong focus on f
 
 - GitHub: [@rusethdev](https://github.com/rusethdev)  
 - Discord: [discord.gg/printstore](https://discord.gg/printstore)  
-- Email: rusethcontact@gmail.com
+- Email: [rusethcontact@gmail.com](mailto:rusethcontact@gmail.com)
